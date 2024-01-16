@@ -8,7 +8,9 @@ O Tribunal Superior Eleitoral (TSE) liberou os dados brutos das urnas de votaç�
 ## 📄Desafios no Projeto de Análise Exploratória de Dados:
 
 **Exploração:** Tarefa de explorar, limpar e extrair os votos contidos no arquivo RDV.
+
 **Processamento:** Requer a agregação dos votos extraídos do arquivo RDV, proporcionando uma compreensão mais aprofundada dos dados.
+
 **Visualização:** Envolvem a criação de gráficos para visualizar de forma clara e intuitiva os dados gerados durante o processo de análise.
 
 
