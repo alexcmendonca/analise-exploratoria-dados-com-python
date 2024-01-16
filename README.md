@@ -6,7 +6,7 @@ A Análise Exploratória de Dados é uma abordagem essencial para investigar e c
 O Tribunal Superior Eleitoral (TSE) liberou os dados brutos das urnas de votação utilizadas durante o processo eleitoral de 2022. O objetivo deste projeto no GitHub é utilizar Python para processar os arquivos RDV de uma urna específica (considerando estado, cidade, zona e seção), reproduzindo os valores agregados do Boletim de Urna para o segundo turno da eleição presidencial de 2022.
 
 ###### Imagem 1: Site TSE | Visualizando dados de uma urna específica
-<img src="/assets/img/img-tse.png">
+<img src="img-tse.png">
 
 ## 📄Desafios no Projeto de Análise Exploratória de Dados:
 
